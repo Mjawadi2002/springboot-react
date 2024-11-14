@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.user {
+  background-color: rgba(255, 255, 255, 0.5); /* Transparent background */
+  max-width: 40rem;
+  padding: 20px;
+  border-radius: 10px; /* Optional rounded corners */
+  margin: 0 auto; /* Center the form horizontally */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+}
+
+.user h1 {
+  font-size: 2rem;
+  color: #333;
+}
